@@ -10,6 +10,9 @@ Full source-code for the book.
 
 
 --------------------------------------------------------------------------------
+
+
+
 To build & run the projects for the book:
 --------------------------------------------------------------------------------
 - Install OpenCV (versions between 2.4.2 to 2.4.11 are supported, whereas OpenCV 3.0 is not yet supported). eg: go to "http://opencv.org/", click on
@@ -31,8 +34,19 @@ You can run each project separately, they each contain a README.md text file
 describing how to build that project, using CMake in most cases, because CMake
 can be used with many compilers and many operating systems.
 
+#目录
+Ch1）Android版漫画和换肤器，作者：Shervin Emami。
+Ch2）iPhone或iPad上基于标记的增强现实，由Khvedchenia Ievgen撰写。
+Ch3）无标记增强现实，由Khvedchenia Ievgen撰写。
+Ch4）使用OpenCV探索运动结构，作者：Roy Shilkrot。
+Ch5）使用SVM和神经网络进行车牌识别，作者：DavidEscrivá。
+Ch6）Jason Saragih的非刚性人脸跟踪。
+Ch7）使用AAM和POSIT的3D头部姿势估计，由DanielLélisBaggio完成。
+Ch8）使用Eigenfaces或Fisherfaces进行人脸识别，作者：Shervin Emami。
+Ch9）使用Naureen Mahmood的Microsoft Kinect开发Fluid Wall。
 
---------------------------------------------------------------------------------
+
+-------------------------------------------------- ------------------------------
 Chapters:
 --------------------------------------------------------------------------------
 - Ch1) Cartoonifier and Skin Changer for Android, by Shervin Emami.
